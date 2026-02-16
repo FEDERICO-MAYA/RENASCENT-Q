@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this theorem or the RENASCENT-Q framework, please cite it as follows:"
+authors:
+  - family-names: "Maya"
+    given-names: "Federico"
+title: "Federico Maya Eternity Theorem: Formal Verification of the Information-Theoretic Ground State via Zeta-Resonance"
+version: 1.0.0
+doi: 10.5281/zenodo.18663869
+date-released: 2026-02-16
+url: "https://zenodo.org/records/18663869"
+keywords:
+  - Riemann Hypothesis
+  - Negentropy
+  - Quantum Error Correction
+  - Information Theory
+  - AGI
