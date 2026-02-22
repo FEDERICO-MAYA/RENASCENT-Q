@@ -43,3 +43,24 @@ cd RENASCENT-Q
 python Solver.v5.py
 
 
+## 📜 Extended Citation & References
+
+If you utilize the RENASCENT-Q theoretical framework, the $S_{Maya}$ action derivations, or the simulation data provided in this repository for your academic research, corporate R&D, or related projects, please cite the official Zenodo record.
+
+**APA Format:**
+> Maya, F. (2026). *RENASCENT-Q version 5.0.0.0: A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order*. Zenodo. https://doi.org/10.5281/zenodo.18673511
+
+**BibTeX (For LaTeX / Overleaf users):**
+```bibtex
+@misc{maya2026renascentq,
+author = {Federico Maya},
+title = {RENASCENT-Q version 5.0.0.0: A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order},
+month = feb,
+year = 2026,
+publisher = {Zenodo},
+doi = {10.5281/zenodo.18673511},
+url = {[https://doi.org/10.5281/zenodo.18673511](https://doi.org/10.5281/zenodo.18673511)}
+}
+
+
+
