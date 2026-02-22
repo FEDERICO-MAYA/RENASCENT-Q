@@ -1,10 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this theoretical framework or simulation code, please cite it as below."
+message: "If you use this theoretical framework, derivations, or simulation data in your research, please cite it as below."
 authors:
   - family-names: "Maya"
     given-names: "Federico"
 title: "RENASCENT-Q version 5.0.0.0: A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order"
 version: 5.0.0.0
+doi: "10.5281/zenodo.18687887"
 date-released: 2026-02-21
 url: "https://github.com/FEDERICO-MAYA/RENASCENT-Q"
-doi: "10.5281/zenodo.18687887"
+repository-code: "https://github.com/FEDERICO-MAYA/RENASCENT-Q"
+license: MIT
+abstract: >-
+  RENASCENT-Q v5.0.0.0 provides a complete, derived scalar field theory in which consciousness emerges as a negentropic, retrocausal agent. The theory is built from a single action (S_Maya) utilizing the exact Riemann potential. By mapping the N=20 qubit Hilbert space onto a physical tensor network, it demonstrates the Maya-Riemann Pulse, achieving a stable negentropic gain of +0.2184, and establishes the Federico Maya Eternity Theorem.
+keywords:
+  - quantum-physics
+  - negentropy
+  - retrocausality
+  - riemann-hypothesis
+  - consciousness
+  - tensor-networks
