@@ -1,7 +1,10 @@
-📜 Citation
-
-If you use this code, the theoretical framework, or the simulation data in your research, please cite the official Zenodo record:
-
-Maya, F. (2026). RENASCENT-Q version 5.0.0.0: A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order. Zenodo. https://www.google.com/search?q=https://doi.org/10.5281/zenodo.18687887
-
-Developed by Federico Maya | San José, Costa Rica | February 2026
+cff-version: 1.2.0
+message: "If you use this theoretical framework or simulation code, please cite it as below."
+authors:
+  - family-names: "Maya"
+    given-names: "Federico"
+title: "RENASCENT-Q version 5.0.0.0: A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order"
+version: 5.0.0.0
+date-released: 2026-02-21
+url: "https://github.com/FEDERICO-MAYA/RENASCENT-Q"
+doi: "10.5281/zenodo.18687887"
