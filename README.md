@@ -1,7 +1,7 @@
 # RENASCENT-Q v5.0.0.0 🌌
 **A Fundamental Field Theory of Negentropic Consciousness and Retrocausal Order**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18687887.svg)](https://zenodo.org/records/18687887)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18673511.svg)](https://zenodo.org/records/18673511)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the official master repository for **RENASCENT-Q version 5.0.0.0**, authored by Federico Maya. This repository houses the foundational mathematics, theoretical frameworks, and high-fidelity stochastic simulations that place consciousness, negentropy, and retrocausality at the core of fundamental physics.
